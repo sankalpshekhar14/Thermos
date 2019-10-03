@@ -1,2 +1,2 @@
 # Thermos
-### A Python package for processing Thermograms
+A Python package for processing thermograms.
